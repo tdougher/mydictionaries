@@ -3,17 +3,16 @@ import random
 phonebook = {"Chris": "555−1111", "Katie": "555−2222", "Joanne": "555−3333"}
 
 """
-mydcitionary = dict(m=8, n=9)
-print(mydictionary)
-
-print(f"Number of key-value pairs": {len(phonebook)})
 
 
 print()
 print('*****  start section 1 - print dictionary ********')
 print()
 
+mydcitionary = dict(m=8, n=9)
+print(mydictionary)
 
+print(f"Number of key-value pairs": {len(phonebook)})
 
 
 
